@@ -17,7 +17,7 @@ public class Q3 {
   
     }  
     public static void main(String[] args) {  
-                int arr[] ={3,60,35,2,45,320,5};  
+                int arr[] ={3,55,132,12,45,320,5};  
                  
                 System.out.println("Array Before: ");  
                 for(int i=0; i < arr.length; i++){  
