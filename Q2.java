@@ -44,7 +44,7 @@ void printArr(int a[], int n)
         System.out.print(a[i] + " ");  
 }  
     public static void main(String[] args) {  
-    int a[] = { 13, 18, 27, 2, 19, 25 };  
+    int a[] = { 145, 68, 1, 7, 19, 25 };  
     int n = a.length;  
     System.out.println("\nBefore quick sorting - ");  
     Q2 q1 = new Q2();  
