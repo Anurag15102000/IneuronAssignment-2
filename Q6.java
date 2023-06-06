@@ -21,8 +21,8 @@ class Q6{
  
     public static void main(String args[])
     {
-        int arr1[] = { 11, 10, 13, 21, 30, 70 };
-        int arr2[] = { 11, 30, 70, 10 };
+        int arr1[] = { 33, 10, 13, 21, 30, 43 };
+        int arr2[] = { 33, 30, 43, 10 };
     
         int m = arr1.length;
         int n = arr2.length;
