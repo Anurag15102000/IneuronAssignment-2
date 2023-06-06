@@ -17,7 +17,7 @@ public class Q5 {
     }  
        
     public static void main(String a[]){  
-        int[] arr1 = {9,14,3,2,43,11,58,22};  
+        int[] arr1 = {89,14,3,33,43,61,58,22};  
         System.out.println("Before Selection Sort");  
         for(int i:arr1){  
             System.out.print(i+" ");  
